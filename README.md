@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bayu-aditya
+- 👀 I’m interested in several modern stack (Go, React Typescript, Kubernetes), design microservice architecture on cloud computing (GCP, AWS) and optimize code to reach low latency api.
+- 🌱 I’m currently working at one of Indonesian lifestyle application as a Full Stack Developer, and several side project as a Backend Developer.
